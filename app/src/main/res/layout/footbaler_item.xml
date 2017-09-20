@@ -38,4 +38,5 @@
         android:text="TextView"
         app:layout_constraintLeft_toRightOf="@+id/ranking"
         app:layout_constraintTop_toBottomOf="@+id/name" />
+
 </android.support.constraint.ConstraintLayout>
